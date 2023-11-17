@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014659743666",
+    "project_id": "birthdayobg",
+    "storage_bucket": "birthdayobg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014659743666:android:dc365d8b63788a771d6eab",
+        "android_client_info": {
+          "package_name": "com.example.birthdayobg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6QZa7YF1iNLdEK1bjTNHdb2VtFaby8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
